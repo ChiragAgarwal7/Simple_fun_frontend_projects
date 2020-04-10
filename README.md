@@ -1,1 +1,3 @@
-# Simple_fun_frontend_projects
+# Simple_Fun_Frontend_Projects
+
+Simple frontend projects for remote mentoring.
